@@ -1,0 +1,13 @@
+.main_content {
+	padding: 5%;
+}
+
+.row-bordered:after {
+	content: "";
+	display:block;
+	border-bottom:1px solid #ccc;
+	margin: 0 15px;
+}
+
+.not-fr-button {
+}
