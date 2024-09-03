@@ -22,8 +22,13 @@
 ## Features
 ---
 Registration / Account verification - ( captchas, email verification ) / Login / Logout / etc
+
 Profile views / picture placement
+
 External profile views
+
 Friending of other profiles
+
 Friend Messaging
+
 Community search view 
